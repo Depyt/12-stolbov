@@ -1,0 +1,37 @@
+.art{
+    background-color: red;
+    border: 1px solid black;
+}
+
+.iio{
+    background-color: blue;
+    border: 1px solid black;
+    height: 200px;
+}
+.rre{
+    margin-top: 50px;
+
+}
+.rrw{
+    margin-top: 10px;
+}
+
+.a2{
+   background-color: yellow;
+   height: 50px;
+   margin-top: 50px;
+   border: 1px solid black;
+}
+
+.a1{
+    height: 150px;
+    background-color: purple;
+    margin-top: 50px;
+    border: 1px solid black;
+}
+.a3{
+    height: 50px;
+    background-color:green;
+    margin-top: -50px;
+    border: 1px solid black;
+}
